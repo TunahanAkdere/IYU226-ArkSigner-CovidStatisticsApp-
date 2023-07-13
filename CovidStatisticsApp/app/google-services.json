@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913626978538",
+    "project_id": "kotlincovidapp-ffb89",
+    "storage_bucket": "kotlincovidapp-ffb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913626978538:android:ef80837fc6fef857d85f93",
+        "android_client_info": {
+          "package_name": "com.tunahanakdere.covidvakauygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913626978538-rgs0mu6ndpstat37kdh95anjp7jmvcmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPqREnuKHdnaiom69ArRiErzIht5bXGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913626978538-rgs0mu6ndpstat37kdh95anjp7jmvcmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
