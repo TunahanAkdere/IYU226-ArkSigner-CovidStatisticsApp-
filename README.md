@@ -61,4 +61,4 @@ CovidStatisticsApp was created by **[Tunahan Akdere](https://github.com/TunahanA
 
 ## **Contact** 📧
 
-If you have any questions or comments about CovidStatisticsApp, please contact **[Tunahan Akdere](mailto:you@example.com)**.
+If you have any questions or comments about CovidStatisticsApp, please contact **[Tunahan Akdere](mailto:tunahanakderem@gmail.com)**.
